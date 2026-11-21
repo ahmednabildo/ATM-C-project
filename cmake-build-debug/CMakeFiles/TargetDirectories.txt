@@ -1,0 +1,3 @@
+C:/Users/DELL/Downloads/seif_FWD/seif_FWD/cmake-build-debug/CMakeFiles/seif_FWD.dir
+C:/Users/DELL/Downloads/seif_FWD/seif_FWD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DELL/Downloads/seif_FWD/seif_FWD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
